@@ -75,15 +75,9 @@ SwapChat/
 
 ## ✅ Future Improvements
    
-    - Store message history locally or in a database
-
-Add voice input/output
-
-Enhance markdown and formatting support
-
-Convert frontend to React (optional)
-
-Add deployment config for Render / Vercel
+- Store message history locally or in a database
+- Convert frontend to React 
+- Add deployment config for Render / Vercel
 
 
 
